@@ -7,10 +7,7 @@ Hello Everyone My Name is Electric and my main github repo on here is for my web
 * 🧠  I'm learning I.T. Fundamentals and web development
 * 🤝  I'm open to collaborating on web sites and overall my thoughts on projects
 
-<a href="https://www.github.com/El3ctricFX" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/El3ctricFX?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Electric_VFX" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Electric_VFX?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 
 ### Skills
 
