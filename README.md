@@ -1,9 +1,9 @@
 Hi 👋 My name is Electric
 =========================
 
-Hello Everyone My Name is Electric and my main github repo on here is for my website so if you'd like to check it out your able to see it \[here\](https://github.com/El3ctricFX/el3ctricfx.github.io)! Theres a bunch of resources on there such as Tech, and best of all resources to stay close to christ! with bible verses and such go check it out and while your at it addon to it so we can all learn! and just personal backup for configs which are sick in my opinion
+Hello Everyone My Name is Electric and my main github repo on here is for my website so if you'd like to check it out your able to see it [here](https://github.com/El3ctricFX/el3ctricfx.github.io)! Theres a bunch of resources on there such as Tech, and best of all resources to stay close to christ! with bible verses and such go check it out and while your at it addon to it so we can all learn! and just personal backup for configs which are sick in my opinion
 
-* 🚀  I'm currently working on [my website's and its affilates](http:///github.com/El3ctricFX/el3ctricfx.github.io/tree/main)
+* 🚀  I'm currently working on [my website's](http:///github.com/El3ctricFX/el3ctricfx.github.io/tree/main) and its affilates
 * 🧠  I'm learning I.T. Fundamentals and web development
 * 🤝  I'm open to collaborating on web sites and overall my thoughts on projects
 
